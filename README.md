@@ -2,9 +2,9 @@ An easy and popular cheesy pasta recipe made with creamy white sauce with soft a
 
 Let us create yummy White sauce pasta!
 
-pls check `Ingridients.md` to know abut what u need to procure for creating delicious white sauce pasta.
+pls check [Ingridients.md](https://github.com/Tejachowdary/masterchef) to know abut what u need to procure for creating delicious white sauce pasta.
 
-pls check `recipe.md` to find recipe.
+pls check `recipe.md` to find [recipe](https://github.com/Tejachowdary/masterchef).
 
 
 
